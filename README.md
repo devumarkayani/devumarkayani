@@ -1,4 +1,9 @@
 ## Hi there 👋
+  I am   Umar Kayani
+- 👋 Hi, I’m @devumarkayani, a Fullstack Web App developer.
+- 🌱 I specialize in  Frontend developer  using React and backend in Node js.
+    Currently  exploring the  Artificial Intellegence and focus on CNN/Neural Network and NLP.
+- 📫 Feel free to reach out via email at dev.umarkayani@gmail.com .
 
 <!--
 **devumarkayani/devumarkayani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
