@@ -1,4 +1,3 @@
-## Hi there 👋
   I am   Umar Kayani
 - 👋 Hi, I’m @devumarkayani, a Fullstack Web App developer.
 - 🌱 I specialize in  Frontend developer  using React and backend in Node js.
